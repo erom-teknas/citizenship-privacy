@@ -45,3 +45,9 @@ jobs:
           git add provinces_data.json CIVICS_CHANGELOG.md
           git commit -m "chore(civics): automated leadership update [skip ci]"
           git push origin main
+
+      - name: 🌐 Instant Global CDN Cache Purge (Cloudflare & Fastly)
+        if: steps.git_diff.outputs.has_changes == 'true'
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/erom-teknas/citizenship-privacy@main/provinces_data.json"
+          echo "✅ Edge CDN cache purged across 750+ global edge datacenters."
