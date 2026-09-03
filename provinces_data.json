@@ -1,0 +1,379 @@
+[
+  {
+    "id": "ON",
+    "name": {
+      "en": "Ontario",
+      "fr": "Ontario"
+    },
+    "capital": {
+      "en": "Toronto",
+      "fr": "Toronto"
+    },
+    "premier": "Doug Ford",
+    "lieutenant_governor": "Edith Dumont",
+    "assembly_name": {
+      "en": "Legislative Assembly of Ontario",
+      "fr": "Assemblée législative de l'Ontario"
+    },
+    "region": {
+      "en": "Central Canada",
+      "fr": "Le Centre du Canada"
+    },
+    "flower": {
+      "en": "White Trillium",
+      "fr": "Trille blanc"
+    },
+    "official_languages": {
+      "en": "English (French services widely available)",
+      "fr": "Anglais (services en français largement offerts)"
+    }
+  },
+  {
+    "id": "QC",
+    "name": {
+      "en": "Quebec",
+      "fr": "Québec"
+    },
+    "capital": {
+      "en": "Quebec City",
+      "fr": "Ville de Québec"
+    },
+    "premier": "Christine Fréchette",
+    "lieutenant_governor": "Manon Jeannotte",
+    "assembly_name": {
+      "en": "National Assembly of Quebec",
+      "fr": "Assemblée nationale du Québec"
+    },
+    "region": {
+      "en": "Central Canada",
+      "fr": "Le Centre du Canada"
+    },
+    "flower": {
+      "en": "Blue Flag Iris",
+      "fr": "Iris versicolore"
+    },
+    "official_languages": {
+      "en": "French",
+      "fr": "Français"
+    }
+  },
+  {
+    "id": "BC",
+    "name": {
+      "en": "British Columbia",
+      "fr": "Colombie-Britannique"
+    },
+    "capital": {
+      "en": "Victoria",
+      "fr": "Victoria"
+    },
+    "premier": "David Eby",
+    "lieutenant_governor": "Wendy Lisogar-Cocchia",
+    "assembly_name": {
+      "en": "Legislative Assembly of British Columbia",
+      "fr": "Assemblée législative de la Colombie-Britannique"
+    },
+    "region": {
+      "en": "West Coast",
+      "fr": "La Côte Ouest"
+    },
+    "flower": {
+      "en": "Pacific Dogwood",
+      "fr": "Cornouiller du Pacifique"
+    },
+    "official_languages": {
+      "en": "English",
+      "fr": "Anglais"
+    }
+  },
+  {
+    "id": "AB",
+    "name": {
+      "en": "Alberta",
+      "fr": "Alberta"
+    },
+    "capital": {
+      "en": "Edmonton",
+      "fr": "Edmonton"
+    },
+    "premier": "Danielle Smith",
+    "lieutenant_governor": "Salma Lakhani",
+    "assembly_name": {
+      "en": "Legislative Assembly of Alberta",
+      "fr": "Assemblée législative de l'Alberta"
+    },
+    "region": {
+      "en": "Prairie Provinces",
+      "fr": "Les provinces des Prairies"
+    },
+    "flower": {
+      "en": "Wild Rose",
+      "fr": "Rose sauvage"
+    },
+    "official_languages": {
+      "en": "English",
+      "fr": "Anglais"
+    }
+  },
+  {
+    "id": "MB",
+    "name": {
+      "en": "Manitoba",
+      "fr": "Manitoba"
+    },
+    "capital": {
+      "en": "Winnipeg",
+      "fr": "Winnipeg"
+    },
+    "premier": "Wab Kinew",
+    "lieutenant_governor": "Anita Neville",
+    "assembly_name": {
+      "en": "Legislative Assembly of Manitoba",
+      "fr": "Assemblée législative du Manitoba"
+    },
+    "region": {
+      "en": "Prairie Provinces",
+      "fr": "Les provinces des Prairies"
+    },
+    "flower": {
+      "en": "Prairie Crocus",
+      "fr": "Crocus des prairies"
+    },
+    "official_languages": {
+      "en": "English",
+      "fr": "Anglais"
+    }
+  },
+  {
+    "id": "SK",
+    "name": {
+      "en": "Saskatchewan",
+      "fr": "Saskatchewan"
+    },
+    "capital": {
+      "en": "Regina",
+      "fr": "Regina"
+    },
+    "premier": "Scott Moe",
+    "lieutenant_governor": "Bernadette McIntyre",
+    "assembly_name": {
+      "en": "Legislative Assembly of Saskatchewan",
+      "fr": "Assemblée législative de la Saskatchewan"
+    },
+    "region": {
+      "en": "Prairie Provinces",
+      "fr": "Les provinces des Prairies"
+    },
+    "flower": {
+      "en": "Western Red Lily",
+      "fr": "Lis rouge de l'Ouest"
+    },
+    "official_languages": {
+      "en": "English",
+      "fr": "Anglais"
+    }
+  },
+  {
+    "id": "NS",
+    "name": {
+      "en": "Nova Scotia",
+      "fr": "Nouvelle-Écosse"
+    },
+    "capital": {
+      "en": "Halifax",
+      "fr": "Halifax"
+    },
+    "premier": "Tim Houston",
+    "lieutenant_governor": "{{wikidata",
+    "assembly_name": {
+      "en": "Nova Scotia House of Assembly",
+      "fr": "Chambre d'assemblée de la Nouvelle-Écosse"
+    },
+    "region": {
+      "en": "Atlantic Provinces",
+      "fr": "Les provinces de l'Atlantique"
+    },
+    "flower": {
+      "en": "Mayflower",
+      "fr": "Fleur de mai"
+    },
+    "official_languages": {
+      "en": "English",
+      "fr": "Anglais"
+    }
+  },
+  {
+    "id": "NB",
+    "name": {
+      "en": "New Brunswick",
+      "fr": "Nouveau-Brunswick"
+    },
+    "capital": {
+      "en": "Fredericton",
+      "fr": "Fredericton"
+    },
+    "premier": "Susan Holt",
+    "lieutenant_governor": "Louise Imbeault",
+    "assembly_name": {
+      "en": "Legislative Assembly of New Brunswick",
+      "fr": "Assemblée législative du Nouveau-Brunswick"
+    },
+    "region": {
+      "en": "Atlantic Provinces",
+      "fr": "Les provinces de l'Atlantique"
+    },
+    "flower": {
+      "en": "Purple Violet",
+      "fr": "Violette cucullée"
+    },
+    "official_languages": {
+      "en": "English and French (Only officially bilingual province)",
+      "fr": "Anglais et Français (Seule province officiellement bilingue)"
+    }
+  },
+  {
+    "id": "NL",
+    "name": {
+      "en": "Newfoundland and Labrador",
+      "fr": "Terre-Neuve-et-Labrador"
+    },
+    "capital": {
+      "en": "St. John's",
+      "fr": "St. John's"
+    },
+    "premier": "Tony Wakeham",
+    "lieutenant_governor": "Joan Marie Aylward",
+    "assembly_name": {
+      "en": "Newfoundland and Labrador House of Assembly",
+      "fr": "Chambre d'assemblée de Terre-Neuve-et-Labrador"
+    },
+    "region": {
+      "en": "Atlantic Provinces",
+      "fr": "Les provinces de l'Atlantique"
+    },
+    "flower": {
+      "en": "Pitcher Plant",
+      "fr": "Sarracénie pourpre"
+    },
+    "official_languages": {
+      "en": "English",
+      "fr": "Anglais"
+    }
+  },
+  {
+    "id": "PE",
+    "name": {
+      "en": "Prince Edward Island",
+      "fr": "Île-du-Prince-Édouard"
+    },
+    "capital": {
+      "en": "Charlottetown",
+      "fr": "Charlottetown"
+    },
+    "premier": "Rob Lantz",
+    "lieutenant_governor": "Wassim Salamoun",
+    "assembly_name": {
+      "en": "Legislative Assembly of Prince Edward Island",
+      "fr": "Assemblée législative de l'Île-du-Prince-Édouard"
+    },
+    "region": {
+      "en": "Atlantic Provinces",
+      "fr": "Les provinces de l'Atlantique"
+    },
+    "flower": {
+      "en": "Lady's Slipper",
+      "fr": "Sabot de la Vierge"
+    },
+    "official_languages": {
+      "en": "English",
+      "fr": "Anglais"
+    }
+  },
+  {
+    "id": "NT",
+    "name": {
+      "en": "Northwest Territories",
+      "fr": "Territoires du Nord-Ouest"
+    },
+    "capital": {
+      "en": "Yellowknife",
+      "fr": "Yellowknife"
+    },
+    "premier": "R. J.  Simpson",
+    "commissioner": "Gerald Kisoun",
+    "assembly_name": {
+      "en": "Legislative Assembly of the Northwest Territories",
+      "fr": "Assemblée législative des Territoires du Nord-Ouest"
+    },
+    "region": {
+      "en": "Northern Territories",
+      "fr": "Les territoires du Nord"
+    },
+    "flower": {
+      "en": "Mountain Avens",
+      "fr": "Driaselle"
+    },
+    "official_languages": {
+      "en": "11 official languages (including Chipewyan, Cree, English, French, Inuinnaqtun, Inuktitut, etc.)",
+      "fr": "11 langues officielles (dont le français, l'anglais, le cri, l'inuktitut...)"
+    }
+  },
+  {
+    "id": "YT",
+    "name": {
+      "en": "Yukon",
+      "fr": "Yukon"
+    },
+    "capital": {
+      "en": "Whitehorse",
+      "fr": "Whitehorse"
+    },
+    "premier": "Currie Dixon",
+    "commissioner": "Adeline Webber",
+    "assembly_name": {
+      "en": "Legislative Assembly of Yukon",
+      "fr": "Assemblée législative du Yukon"
+    },
+    "region": {
+      "en": "Northern Territories",
+      "fr": "Les territoires du Nord"
+    },
+    "flower": {
+      "en": "Fireweed",
+      "fr": "Épilobe en épi"
+    },
+    "official_languages": {
+      "en": "English and French",
+      "fr": "Anglais et Français"
+    }
+  },
+  {
+    "id": "NU",
+    "name": {
+      "en": "Nunavut",
+      "fr": "Nunavut"
+    },
+    "capital": {
+      "en": "Iqaluit",
+      "fr": "Iqaluit"
+    },
+    "premier": "P.J. Akeeagok",
+    "commissioner": "Eva Qamaniq Aariak",
+    "assembly_name": {
+      "en": "Legislative Assembly of Nunavut",
+      "fr": "Assemblée législative du Nunavut"
+    },
+    "region": {
+      "en": "Northern Territories",
+      "fr": "Les territoires du Nord"
+    },
+    "flower": {
+      "en": "Purple Saxifrage",
+      "fr": "Saxifrage à feuilles opposées"
+    },
+    "official_languages": {
+      "en": "Inuktut (Inuktitut and Inuinnaqtun), English, and French",
+      "fr": "Inuktut (inuktitut et inuinnaqtun), anglais et français"
+    }
+  }
+]
