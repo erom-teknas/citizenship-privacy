@@ -1,6 +1,6 @@
 # 🇨🇦 Canadian Civic Leadership Auto-Sync Report
-Updated automatically on 2026-09-03 16:05:01 UTC
+Updated automatically on 2026-10-26 15:50:18 UTC
 
 | Jurisdiction | Role | Previous Incumbent | Newly Verified Leader |
 | :--- | :--- | :--- | :--- |
-| **Northwest Territories** (NT) | Premier | R. J.  Simpson | **R. J. Simpson** |
+| **Quebec** (QC) | Premier | Christine Fréchette | **Paul St-Pierre Plamondon** |
