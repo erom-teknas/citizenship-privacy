@@ -1,6 +1,6 @@
 # 🇨🇦 Canadian Civic Leadership Auto-Sync Report
-Updated automatically on 2026-10-26 15:50:18 UTC
+Updated automatically on 2026-11-23 20:52:01 UTC
 
 | Jurisdiction | Role | Previous Incumbent | Newly Verified Leader |
 | :--- | :--- | :--- | :--- |
-| **Quebec** (QC) | Premier | Christine Fréchette | **Paul St-Pierre Plamondon** |
+| **British Columbia** (BC) | Premier | David Eby | **Lorne Doerkson** |
